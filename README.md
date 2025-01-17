@@ -38,6 +38,8 @@ Tercihen Anaconda üzerinden JupyterLab'de çalıştırınız.
 ## Önemli Notlar:
 * Kadınlar için kalça ölçüsü gereklidir.
 * Eğer spor hareketi bilinmiyorsa, program bunu bildirecektir.
+* JupyterLab,Spyder gibi IDElerde çalıştırınız.
+
 
 ## Programın yazılış süreci hakkında önemli bilgiler
 * Süreçte kas grubu verileri chatgpt ile çekilmiştir. En fazla 2 kas grubu en çok çalıştırılan bölgelerden seçilmiştir.
