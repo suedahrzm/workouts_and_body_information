@@ -13,6 +13,7 @@ Haftalık veriler görsel olarak pasta ve çubuk grafikleriyle gösterilir.
   
 ## Kullanım:
 1.Python ve Gerekli Kütüphaneler:
+* math (Matematiksel hesaplamalar için)
 * matplotlib (Grafik çizimi için)
 * json (Veri saklamak için)
 
